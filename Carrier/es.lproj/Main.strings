@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; configuration.title = "Forget Password?"; ObjectID = "1QU-VS-fi1"; */
+"1QU-VS-fi1.configuration.title" = "Forget Password?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1QU-VS-fi1"; */
+"1QU-VS-fi1.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "SIGN UP"; ObjectID = "A61-Df-Gzc"; */
+"A61-Df-Gzc.configuration.title" = "SIGN UP";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "A61-Df-Gzc"; */
+"A61-Df-Gzc.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "enter Email"; ObjectID = "BZs-n2-DYr"; */
+"BZs-n2-DYr.placeholder" = "enter Email";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Fxs-yP-0Un"; */
+"Fxs-yP-0Un.text" = "Password";
+
+/* Class = "UITextField"; placeholder = "enter Email"; ObjectID = "USa-vJ-xFd"; */
+"USa-vJ-xFd.placeholder" = "enter Email";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "UmU-Bu-g3q"; */
+"UmU-Bu-g3q.text" = "UserName";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "YBa-O0-0p5"; */
+"YBa-O0-0p5.text" = "Password";
+
+/* Class = "UIButton"; configuration.title = "SIGN UP"; ObjectID = "bg2-Vy-XFC"; */
+"bg2-Vy-XFC.configuration.title" = "SIGN UP";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bg2-Vy-XFC"; */
+"bg2-Vy-XFC.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "LOG IN"; ObjectID = "csz-nu-tVZ"; */
+"csz-nu-tVZ.configuration.title" = "LOG IN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "csz-nu-tVZ"; */
+"csz-nu-tVZ.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "g1V-CC-qXK"; */
+"g1V-CC-qXK.placeholder" = "Enter Password";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "gAs-YA-efJ"; */
+"gAs-YA-efJ.placeholder" = "Enter Password";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "hde-kt-Bng"; */
+"hde-kt-Bng.text" = "UserName";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "ja6-oy-Jsg"; */
+"ja6-oy-Jsg.text" = "OR";

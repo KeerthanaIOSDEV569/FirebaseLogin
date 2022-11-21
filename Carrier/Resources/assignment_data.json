@@ -1,0 +1,206 @@
+[
+ {
+  "Date": "10\/28\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 25,
+  "Humidity": 50
+ },
+ {
+  "Date": "10\/27\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 27,
+  "Humidity": 49
+ },
+ {
+  "Date": "10\/26\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 20,
+  "Humidity": 48
+ },
+ {
+  "Date": "10\/25\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 19,
+  "Humidity": 47
+ },
+ {
+  "Date": "10\/24\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 21,
+  "Humidity": 48
+ },
+ {
+  "Date": "10\/23\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 22,
+  "Humidity": 49
+ },
+ {
+  "Date": "10\/22\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 23,
+  "Humidity": 50
+ },
+ {
+  "Date": "10\/21\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 24,
+  "Humidity": 51
+ },
+ {
+  "Date": "10\/20\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 25,
+  "Humidity": 52
+ },
+ {
+  "Date": "10\/19\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 26,
+  "Humidity": 53
+ },
+ {
+  "Date": "10\/18\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 27,
+  "Humidity": 54
+ },
+ {
+  "Date": "10\/17\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 28,
+  "Humidity": 55
+ },
+ {
+  "Date": "10\/16\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 29,
+  "Humidity": 56
+ },
+ {
+  "Date": "10\/15\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 30,
+  "Humidity": 57
+ },
+ {
+  "Date": "10\/14\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 29,
+  "Humidity": 56
+ },
+ {
+  "Date": "10\/13\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 28,
+  "Humidity": 55
+ },
+ {
+  "Date": "10\/12\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 27,
+  "Humidity": 54
+ },
+ {
+  "Date": "10\/11\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 26,
+  "Humidity": 53
+ },
+ {
+  "Date": "10\/10\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 25,
+  "Humidity": 52
+ },
+ {
+  "Date": "10\/09\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 24,
+  "Humidity": 51
+ },
+ {
+  "Date": "10\/08\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 23,
+  "Humidity": 50
+ },
+ {
+  "Date": "10\/07\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 22,
+  "Humidity": 49
+ },
+ {
+  "Date": "10\/06\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 21,
+  "Humidity": 48
+ },
+ {
+  "Date": "10\/05\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 22,
+  "Humidity": 49
+ },
+ {
+  "Date": "10\/04\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 23,
+  "Humidity": 50
+ },
+ {
+  "Date": "10\/03\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 24,
+  "Humidity": 51
+ },
+ {
+  "Date": "10\/02\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 23,
+  "Humidity": 19
+ },
+ {
+  "Date": "10\/01\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 22,
+  "Humidity": 50
+ },
+ {
+  "Date": "09\/30\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 22,
+  "Humidity": 50
+ },
+ {
+  "Date": "09\/29\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 23,
+  "Humidity": 50
+ },
+ {
+  "Date": "09\/28\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 24,
+  "Humidity": 50
+ },
+ {
+  "Date": "09\/27\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 19,
+  "Humidity": 50
+ },
+ {
+  "Date": "09\/26\/2022 12:12",
+  "Mode": "Cool",
+  "Temperature": 18,
+  "Humidity": 50
+ },
+ {
+  "Date": "09\/25\/2022 12:12",
+  "Mode": "Heat",
+  "Temperature": 25,
+  "Humidity": 50
+ }
+]
